@@ -1,0 +1,22 @@
+#header {
+    font-family: "Roboto Condensed";
+
+}
+header   {
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("milkyway.jpg");
+    height: 100vh; 
+}
+
+main{
+    background-color:black;
+}
+
+.bi {
+    height: 20px; 
+    width: 20px; 
+    color:aqua;
+    margin: 10px 30px; 
+}
