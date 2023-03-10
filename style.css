@@ -20,3 +20,7 @@ main{
     color:aqua;
     margin: 10px 30px; 
 }
+
+.image-thumbnail    {
+    object-fit:cover; 
+}
